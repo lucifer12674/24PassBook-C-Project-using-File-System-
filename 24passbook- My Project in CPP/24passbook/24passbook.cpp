@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include<stdlib.h>
 #include<conio.h>
+//For Ubuntu you have to include ncurses.h Header File
 using namespace std;
 
 double balance1=0;
