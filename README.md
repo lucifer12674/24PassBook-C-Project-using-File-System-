@@ -7,4 +7,4 @@
 
 A C++ Project in which you can Save your Account Details and all Transactions in a systematic way.
 
-Use, Enjoy and Be up-to-date with all your Transactions.
+Use, Enjoy and Be up-to-date with all your Transaction .
