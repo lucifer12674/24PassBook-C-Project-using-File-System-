@@ -534,7 +534,8 @@ int menu2()
 int main()
 {
     int flag=accountSetup();
-
+    menu1();
+    cout<<"menu1() function called";
     if(flag)
     {
         menu2();
